@@ -2,12 +2,12 @@
 
 - 👀 I'm interested in web development
 - 🌱 I'm currently learning:
-  - Python
-  - Java RESTful APIs
-  - Microservices
   - Spring framework
   - Spring Boot
   - Spring Security
+  - Python Data Scientist
+  - Django 
+  - FlasK
 - 💼 Working on enhancing my skills in backend development
 - 📫 How to reach me: email rohanuke1@gmail.com
 
