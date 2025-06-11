@@ -58,44 +58,6 @@ const developer = {
 - Exploring **AI-powered backend solutions**
 - Contributing to **open-source projects**
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARONAGENT&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARONAGENT&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARONAGENT&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 Key Areas of Expertise
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend Development
-- RESTful API Design
-- Microservices Architecture
-- Database Design & Optimization
-- Message Queue Systems
-- Container Orchestration
-
-</td>
-<td width="50%">
-
-### Data & Analytics
-- Data Pipeline Development
-- Business Intelligence
-- Machine Learning Models
-- Statistical Analysis
-- Data Visualization
-
-</td>
-</tr>
-</table>
 
 ## 🤝 Let's Connect & Collaborate
 
