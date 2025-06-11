@@ -1,36 +1,123 @@
-# 👋 Hi, I'm @ARONAGENT
+# Hi there, I'm @ARONAGENT 👋
+
+[![Email](https://img.shields.io/badge/Email-rohanuke1%40gmail.com-red?style=flat-square&logo=gmail)](mailto:rohanuke1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ARONAGENT&color=blue&style=flat-square)](https://github.com/ARONAGENT)
 
 ## 🚀 About Me
 
 I'm a passionate **web developer** with a keen interest in backend development. I love working with modern frameworks and technologies to build scalable and efficient applications. My focus is on continuous learning and improving my skills in the ever-evolving tech landscape.
 
+```javascript
+const developer = {
+    name: "ARONAGENT",
+    role: "Backend Developer",
+    passions: ["Web Development", "Microservices", "AI", "Data Science"],
+    currentFocus: "Building scalable backend architectures",
+    lifePhilosophy: "Continuous learning and innovation"
+};
+```
+
+## 🛠️ Tech Stack & Skills
+
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+### Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Emerging Technologies
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
 ## 🌱 Currently Learning
 
-### Backend Technologies:
+### 🔧 Backend Technologies
 - **Spring Boot** - Building robust and scalable backend applications
-- **Kafka** - Event-driven architecture and messaging system
-- **Docker** - Containerization and efficient deployment
-- **Microservices** - Scalable and modular backend architecture
-- **Kubernetes** - Container orchestration and management
-- **Aspect-Oriented Programming (AOP)** - Modularization techniques for cross-cutting concerns
-- **Asynchronous & Dynamic Programming** - Enhancing performance and responsiveness
+- **Apache Kafka** - Event-driven architecture and messaging systems
+- **Docker & Kubernetes** - Containerization and orchestration
+- **Microservices Architecture** - Scalable and modular backend design
+- **Aspect-Oriented Programming (AOP)** - Cross-cutting concerns modularization
+- **Asynchronous & Dynamic Programming** - Performance optimization
 
-### Python & Data Science:
-- **Advanced Data Analysis using Power BI** - Data visualization and reporting
-- **Data Modeling** - Structuring data for analysis and insights
-- **Machine Learning** - Developing predictive models and AI solutions
-- **AI & Blockchain** - Exploring innovative technologies for future applications
+### 📊 Data Science & AI
+- **Advanced Data Analysis with Power BI** - Interactive dashboards and reporting
+- **Data Modeling** - Structuring data for meaningful insights
+- **Machine Learning** - Predictive modeling and AI solutions
+- **AI & Blockchain Integration** - Exploring next-generation technologies
 
-## 💼 Working On
-- Enhancing my **backend development** expertise
-- Gaining proficiency in **cloud-native architectures**
-- Exploring the intersection of **AI, Blockchain, and data science**
+## 💼 Current Focus
 
-## 📫 How to Reach Me
-- 📧 Email: [rohanuke1@gmail.com](mailto:rohanuke1@gmail.com)
+🎯 **Primary Goals:**
+- Mastering **cloud-native architectures** and deployment strategies
+- Building expertise in **event-driven microservices**
+- Exploring **AI-powered backend solutions**
+- Contributing to **open-source projects**
 
-## 🤝 Collaboration & Contributions
-Feel free to check out my repositories! I'm open to collaborations, contributions, and discussions on **backend development, microservices, data science, and AI**. Don't hesitate to reach out if you have any ideas or questions.
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARONAGENT&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARONAGENT&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARONAGENT&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 Key Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Development
+- RESTful API Design
+- Microservices Architecture
+- Database Design & Optimization
+- Message Queue Systems
+- Container Orchestration
+
+</td>
+<td width="50%">
+
+### Data & Analytics
+- Data Pipeline Development
+- Business Intelligence
+- Machine Learning Models
+- Statistical Analysis
+- Data Visualization
+
+</td>
+</tr>
+</table>
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to collaborate on interesting projects and discuss innovative ideas! Feel free to reach out if you're interested in:
+
+- 🔗 **Backend Development** projects and best practices
+- 🏗️ **Microservices Architecture** design and implementation
+- 📊 **Data Science** and analytics solutions
+- 🤖 **AI/ML** integration in web applications
+- 🌐 **Open Source** contributions and community projects
+
+### 📬 Get in Touch
+
+- 📧 **Email:** [rohanuke1@gmail.com](mailto:rohanuke1@gmail.com)
+- 💬 **Open to:** Collaborations, technical discussions, and mentoring opportunities
 
 ---
-Let's connect and build something amazing together! 🚀
+
+<div align="center">
+
+### "Building the future, one commit at a time" 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
