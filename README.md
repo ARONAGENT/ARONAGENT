@@ -89,7 +89,4 @@ I'm always excited to collaborate on interesting projects and discuss innovative
 <div align="center">
 
 ### 🚀 **"Building the future, one commit at a time"** 
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
