@@ -1,38 +1,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=ARONAGENT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 
----
 <img align="right" src="https://komarev.com/ghpvc/?username=ARONAGENT&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="Profile Views"/>
 
-<h1>Hi there, I'm <a href="https://github.com/ARONAGENT">Aron</a> 👋</h1>
 
 ## 🚀 About Me
 
 I'm a passionate **Backend Developer** specializing in microservices architecture and scalable applications.  
 Currently exploring **AI integration** and **data science** to build next-generation solutions.
 
----
 
 ## 🎯 **MISSION CONTROL** 
 
 ```javascript
 const ARONAGENT = {
     identity: {
-        callSign: "Backend Architect 🏗️",
-        specialization: "Microservices & Scalable Systems",
-        currentMission: "AI-Powered Backend Solutions"
+        callSign: "Spring Boot Specialist 🌱",
+        specialization: "Microservices & AI Integration",
+        currentMission: "Crafting Intelligent Backend APIs with Spring Boot"
     },
     coreDirectives: [
-        "Build bulletproof architectures 🛡️",
-        "Scale systems beyond limits 📈",
-        "Integrate AI seamlessly 🤖",
-        "Never stop learning 🧠"
+        "Architect clean, modular microservices 🧩",
+        "Secure endpoints with Spring Security 🔐",
+        "Integrate AI models with precision 🤖",
+        "Design DTOs for clarity and control 📦",
+        "Learn scalable system design step-by-step 📚"
     ],
     status: "ACTIVE_DEVELOPMENT",
-    nextEvolution: "Machine Learning Engineer"
+    nextEvolution: "AI-Driven System Designer"
 };
 
-console.log(`${ARONAGENT.identity.callSign} ready for deployment! 🚀`);
+console.log(`${ARONAGENT.identity.callSign} bootstrapped and ready! 🚀`);
 ````
 
 ---
@@ -48,7 +46,6 @@ console.log(`${ARONAGENT.identity.callSign} ready for deployment! 🚀`);
 [![Maven](https://img.shields.io/badge/📦_Maven-FF1493?style=for-the-badge\&logo=apache-maven\&logoColor=white\&labelColor=1a1a1a)](https://maven.apache.org/guides/)
 [![Gradle](https://img.shields.io/badge/⚙️_Gradle-00CED1?style=for-the-badge\&logo=gradle\&logoColor=white\&labelColor=1a1a1a)](https://docs.gradle.org/)
 
----
 
 ### 🗄️ Data Vaults
 
@@ -57,7 +54,6 @@ console.log(`${ARONAGENT.identity.callSign} ready for deployment! 🚀`);
 [![MongoDB](https://img.shields.io/badge/🍃_MongoDB-00FF7F?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=1a1a1a)](https://docs.mongodb.com/)
 [![Redis](https://img.shields.io/badge/⚡_Redis-FF4500?style=for-the-badge\&logo=redis\&logoColor=white\&labelColor=1a1a1a)](https://redis.io/docs/)
 
----
 
 ### ☁️ Cloud Command
 
@@ -67,7 +63,6 @@ console.log(`${ARONAGENT.identity.callSign} ready for deployment! 🚀`);
 [![AWS](https://img.shields.io/badge/☁️_AWS-FFD700?style=for-the-badge\&logo=amazon-aws\&logoColor=black\&labelColor=1a1a1a)](https://docs.aws.amazon.com/)
 [![Git](https://img.shields.io/badge/🌳_Git-32CD32?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=1a1a1a)](https://git-scm.com/docs)
 
----
 
 ### 🤖 AI & Data Science Lab
 
@@ -102,7 +97,7 @@ Machine Learning         ██████████████████�
 
 ## 🎯 **CURRENT MISSIONS**
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
 <a href="https://microservices.io/"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
