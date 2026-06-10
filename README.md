@@ -1,162 +1,199 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&text=ARONAGENT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:0A3D62,60:1A5276,100:0E6655&height=220&text=ARONAGENT&fontSize=72&fontColor=00FFC8&animation=twinkling&fontAlignY=38&desc=Backend%20Architect%20%E2%80%A2%20AI%20Integrator%20%E2%80%A2%20Microservices%20Engineer&descAlignY=58&descSize=16&descColor=A0DFCB"/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ARONAGENT&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="Profile Views"/>
+<br/>
 
+<a href="mailto:rohanuke1@gmail.com">
+  <img src="https://img.shields.io/badge/rohanuke1%40gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=00FFC8&labelColor=0A0A0A"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ARONAGENT">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=00FFC8&labelColor=0A0A0A"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Aron20kk/">
+  <img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=flat-square&logo=leetcode&logoColor=00FFC8&labelColor=0A0A0A"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ARONAGENT&style=flat-square&color=00FFC8&labelColor=0A0A0A&label=PROFILE+VIEWS"/>
 
-## 🚀 About Me
+</div>
 
-I'm a passionate **Backend Developer** specializing in microservices architecture and scalable applications.  
-Currently exploring **AI integration** and **data science** to build next-generation solutions.
+<br/>
 
+---
 
-## 🎯 **MISSION CONTROL** 
+## `> whoami`
+
+```yaml
+name        : ARONAGENT
+role        : Backend Developer  ·  Microservices Architect  ·  AI Integrator
+callsign    : Spring Boot Specialist 🌱
+location    : India 🇮🇳
+currently   : Crafting intelligent backend APIs with Spring Boot + AI
+evolving_to : AI-Driven System Designer
+```
+
+I build **scalable backend systems** that don't flinch under load.  
+My craft lives at the intersection of **clean architecture**, **distributed systems**, and **machine intelligence**.  
+Currently bridging the gap between enterprise Java backends and modern AI pipelines.
+
+---
+
+## `> ls ./tech-stack`
+
+<div align="center">
+
+### 🏗️ Backend Core
+
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=FF6B35&labelColor=111111)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=111111)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0A0A0A?style=for-the-badge&logo=springsecurity&logoColor=6DB33F&labelColor=111111)
+![Hibernate](https://img.shields.io/badge/Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=B7472A&labelColor=111111)
+![JWT](https://img.shields.io/badge/JWT-0A0A0A?style=for-the-badge&logo=jsonwebtokens&logoColor=00FFC8&labelColor=111111)
+![Maven](https://img.shields.io/badge/Maven-0A0A0A?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=111111)
+![Gradle](https://img.shields.io/badge/Gradle-0A0A0A?style=for-the-badge&logo=gradle&logoColor=02303A&labelColor=111111)
+
+### 🗄️ Data Layer
+
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=111111)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=111111)
+![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=FF4438&labelColor=111111)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=111111)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=111111)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-0A0A0A?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF&labelColor=111111)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=111111)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032&labelColor=111111)
+
+### 🤖 AI & Data Science
+
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=111111)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=111111)
+![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=111111)
+![Power BI](https://img.shields.io/badge/Power_BI-0A0A0A?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=111111)
+
+</div>
+
+---
+
+## `> cat skill_matrix.log`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     SKILL DEPLOYMENT STATUS                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Backend Architecture    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100%  ✅ DEPLOYED ║
+║  Microservices Design    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   95%  🚀 ACTIVE   ║
+║  Database Optimization   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   92%  💾 ONLINE   ║
+║  Cloud Infrastructure    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   88%  ☁️  SCALING  ║
+║  AI Integration          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   85%  🤖 TRAINING ║
+║  Data Science            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75%  📊 LEARNING ║
+║  Machine Learning        ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   65%  🧠 EVOLVING ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> git log --missions`
+
+<div align="center">
+
+|  | Mission | Stack | Status |
+|:---:|:---|:---|:---:|
+| 🧩 | **Microservices Mastery** — Service mesh & inter-service comms | Spring Boot · Feign · Eureka | `ACTIVE` |
+| 🌊 | **Event-Driven Systems** — High-throughput async pipelines | Apache Kafka · RabbitMQ | `ACTIVE` |
+| ⚓ | **Cloud Native Deployment** — Container orchestration at scale | Docker · K8s · AWS EKS | `IN PROGRESS` |
+| 🧠 | **ML Engineering** — Model serving & MLOps pipelines | TensorFlow · Python · FastAPI | `IN PROGRESS` |
+
+</div>
+
+---
+
+## `> grep -r "collaborate" ./interests`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  I'm open to collaborating on:                                  │
+│                                                                 │
+│  ✦  High-performance Java/Spring backend systems                │
+│  ✦  Distributed microservices architecture design               │
+│  ✦  AI model integration into production APIs                   │
+│  ✦  Open-source tools for backend developers                    │
+│  ✦  Data pipelines and analytics platforms                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `> cat ./core_philosophy`
 
 ```javascript
 const ARONAGENT = {
-    identity: {
-        callSign: "Spring Boot Specialist 🌱",
-        specialization: "Microservices & AI Integration",
-        currentMission: "Crafting Intelligent Backend APIs with Spring Boot"
-    },
-    coreDirectives: [
-        "Architect clean, modular microservices 🧩",
-        "Secure endpoints with Spring Security 🔐",
-        "Integrate AI models with precision 🤖",
-        "Design DTOs for clarity and control 📦",
-        "Learn scalable system design step-by-step 📚"
-    ],
-    status: "ACTIVE_DEVELOPMENT",
-    nextEvolution: "AI-Driven System Designer"
+  identity: {
+    callSign    : "Spring Boot Specialist 🌱",
+    domain      : "Microservices & AI Integration",
+    mission     : "Crafting intelligent backend APIs — clean, secure, scalable"
+  },
+  principles: [
+    "Architect modular microservices — each service owns its domain",
+    "Security is not a feature, it's a foundation — Spring Security first",
+    "AI integration is the next layer of every serious API",
+    "DTOs are contracts — design them with intention",
+    "Learn system design daily, apply it always"
+  ],
+  currentFocus : "Event-driven architectures + AI-powered APIs",
+  nextEvolution: "AI-Driven System Designer",
+  status       : "ACTIVE_DEVELOPMENT 🚀"
 };
-
-console.log(`${ARONAGENT.identity.callSign} bootstrapped and ready! 🚀`);
-````
-
----
-
-## ⚡ **POWER ARSENAL**
-
-### 🏗️ Backend Fortress
-
-[![Java](https://img.shields.io/badge/☕_Java-FF6B35?style=for-the-badge\&logo=openjdk\&logoColor=white\&labelColor=1a1a1a)](https://docs.oracle.com/en/java/)
-[![Spring Boot](https://img.shields.io/badge/🍃_Spring_Boot-32CD32?style=for-the-badge\&logo=spring\&logoColor=white\&labelColor=1a1a1a)](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-[![Hibernate](https://img.shields.io/badge/🔄_Hibernate-B7472A?style=for-the-badge\&logo=hibernate\&logoColor=white\&labelColor=1a1a1a)](https://hibernate.org/orm/documentation/)
-[![JWT](https://img.shields.io/badge/🔐_JWT-8A2BE2?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white\&labelColor=1a1a1a)](https://jwt.io/introduction)
-[![Maven](https://img.shields.io/badge/📦_Maven-FF1493?style=for-the-badge\&logo=apache-maven\&logoColor=white\&labelColor=1a1a1a)](https://maven.apache.org/guides/)
-[![Gradle](https://img.shields.io/badge/⚙️_Gradle-00CED1?style=for-the-badge\&logo=gradle\&logoColor=white\&labelColor=1a1a1a)](https://docs.gradle.org/)
-
-
-### 🗄️ Data Vaults
-
-[![MySQL](https://img.shields.io/badge/🐬_MySQL-4682B4?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=1a1a1a)](https://dev.mysql.com/doc/)
-[![PostgreSQL](https://img.shields.io/badge/🐘_PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white\&labelColor=1a1a1a)](https://www.postgresql.org/docs/)
-[![MongoDB](https://img.shields.io/badge/🍃_MongoDB-00FF7F?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=1a1a1a)](https://docs.mongodb.com/)
-[![Redis](https://img.shields.io/badge/⚡_Redis-FF4500?style=for-the-badge\&logo=redis\&logoColor=white\&labelColor=1a1a1a)](https://redis.io/docs/)
-
-
-### ☁️ Cloud Command
-
-[![Docker](https://img.shields.io/badge/🐳_Docker-1E90FF?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=1a1a1a)](https://docs.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/⚓_Kubernetes-9932CC?style=for-the-badge\&logo=kubernetes\&logoColor=white\&labelColor=1a1a1a)](https://kubernetes.io/docs/home/)
-[![Kafka](https://img.shields.io/badge/🌊_Kafka-FF6347?style=for-the-badge\&logo=apachekafka\&logoColor=white\&labelColor=1a1a1a)](https://kafka.apache.org/documentation/)
-[![AWS](https://img.shields.io/badge/☁️_AWS-FFD700?style=for-the-badge\&logo=amazon-aws\&logoColor=black\&labelColor=1a1a1a)](https://docs.aws.amazon.com/)
-[![Git](https://img.shields.io/badge/🌳_Git-32CD32?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=1a1a1a)](https://git-scm.com/docs)
-
-
-### 🤖 AI & Data Science Lab
-
-[![Python](https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=black\&labelColor=1a1a1a)](https://docs.python.org/3/)
-[![Pandas](https://img.shields.io/badge/🐼_Pandas-FF69B4?style=for-the-badge\&logo=pandas\&logoColor=white\&labelColor=1a1a1a)](https://pandas.pydata.org/docs/)
-[![PowerBI](https://img.shields.io/badge/📊_Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black\&labelColor=1a1a1a)](https://docs.microsoft.com/en-us/power-bi/)
-[![TensorFlow](https://img.shields.io/badge/🧠_TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white\&labelColor=1a1a1a)](https://www.tensorflow.org/guide)
-
----
-
-## 🎯 **SKILL DEPLOYMENT STATUS**
-
-```
-Backend Architecture     ████████████████████████████████████  100% ✅
-Microservices Design     ███████████████████████████████████▌   95% 🚀
-Database Optimization    ████████████████████████████████████   92% 💾
-Cloud Infrastructure     ████████████████████████████████▌▌▌   88% ☁️
-AI Integration           █████████████████████████████▌▌▌▌▌   85% 🤖
-Data Science             ████████████████████████▌▌▌▌▌▌▌▌▌   75% 📊
-Machine Learning         ██████████████████▌▌▌▌▌▌▌▌▌▌▌▌▌▌   65% 🧠
 ```
 
 ---
 
-## 📡 **COMMUNICATION CHANNELS**
+## `> cat stats.json`
 
-[![Email](https://img.shields.io/badge/📧_rohanuke1@gmail.com-FF4444?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=1a1a1a)](mailto:rohanuke1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Professional_Network-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=1a1a1a)](https://linkedin.com/in/ARONAGENT)
-[![LeetCode](https://img.shields.io/badge/🧩_LeetCode-FFA116?style=for-the-badge\&logo=LeetCode\&logoColor=black\&labelColor=1a1a1a)](https://leetcode.com/u/Aron20kk/)
+<div align="center">
 
----
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ARONAGENT&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=AAAAAA&bg_color=0D0D0D&ring_color=00FFC8"/>
+&nbsp;&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARONAGENT&layout=compact&theme=transparent&hide_border=true&title_color=00FFC8&text_color=AAAAAA&bg_color=0D0D0D"/>
 
-## 🎯 **CURRENT MISSIONS**
+<br/><br/>
 
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://microservices.io/"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></a>
-<br><b>Microservices Mastery</b>
-<br>Service mesh architecture
-</td>
-<td align="center">
-<a href="https://kafka.apache.org/documentation/"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></a>
-<br><b>Event-Driven Systems</b>
-<br>Apache Kafka streaming
-</td>
-<td align="center">
-<a href="https://kubernetes.io/docs/concepts/"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"></a>
-<br><b>Cloud Native</b>
-<br>K8s & AWS deployment
-</td>
-<td align="center">
-<a href="https://ml-ops.org/"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"></a>
-<br><b>ML Engineering</b>
-<br>MLOps & model deployment
-</td>
-</tr>
-</table>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARONAGENT&theme=transparent&hide_border=true&ring=00FFC8&fire=FF6B35&currStreakLabel=00FFC8&sideLabels=AAAAAA&dates=555555&background=0D0D0D&stroke=222222"/>
+
+</div>
 
 ---
 
-## 🚀 **COLLABORATION MATRIX**
+## `> ping ./contact`
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<a href="https://spring.io/guides"><img src="https://media.giphy.com/media/QssGEmpSoFGWrXvB8D/giphy.gif" width="60"></a>
-<br><strong>Backend Systems</strong>
-<br><code>Java • Spring • APIs</code>
-</td>
-<td align="center" width="25%">
-<a href="https://microservices.io/patterns/"><img src="https://media.giphy.com/media/JtBqcRlMYOZJcvhHkW/giphy.gif" width="60"></a>
-<br><strong>Microservices</strong>
-<br><code>Architecture • Design</code>
-</td>
-<td align="center" width="25%">
-<a href="https://www.tensorflow.org/guide"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60"></a>
-<br><strong>AI Integration</strong>
-<br><code>ML • Data Science</code>
-</td>
-<td align="center" width="25%">
-<a href="https://opensource.guide/"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"></a>
-<br><strong>Open Source</strong>
-<br><code>Contributions • Community</code>
-</td>
-</tr>
-</table>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL__ME-rohanuke1%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFC8&labelColor=111111)](mailto:rohanuke1@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFC8&labelColor=111111)](https://linkedin.com/in/ARONAGENT)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-Grind-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=00FFC8&labelColor=111111)](https://leetcode.com/u/Aron20kk/)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 **"Code is poetry, architecture is art, and innovation is the masterpiece"**
+<sub>`// "Architecture is the decisions that are hard to change later. Make them well." — ARONAGENT`</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E6655,50:1A5276,100:0D0D0D&height=120&section=footer&animation=twinkling"/>
 
 </div>
