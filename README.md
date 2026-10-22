@@ -15,9 +15,7 @@
 <br/>
 
 <a href="https://portfolio-aronagent.onrender.com/"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="46"/></a>
-<a href="mailto:rohanuke1@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46"/></a>
-<a href="https://linkedin.com/in/ARONAGENT"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46"/></a>
-<a href="https://leetcode.com/u/Aron20kk/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="46"/></a>
+
 
 <br/><br/>
 
